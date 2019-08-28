@@ -1,4 +1,4 @@
-# Adam Almonte's Thesis Code Challenge
+# Landing page code challenge
 
 Design tweak: It doesn't make sense to have the menu visible AND have the hamburger menu on desktop, so I
 1) Limited the hamburger menu to only appear on mobile and tablet viewport widths
